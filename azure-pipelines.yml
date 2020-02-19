@@ -24,7 +24,8 @@ steps:
 
 - task: GitHubRelease@1
   inputs:
-    repositoryName: '$(Build.Repository.Name)'
+    gitHubConnection: 'eivarin'
+    repositoryName: 'eivarin/TheBetterChat'
     action: 'create'
     target: '$(Build.SourceVersion)'
     tagSource: 'gitTag'
