@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570346624718",
+    "firebase_url": "https://thebetterchatreal.firebaseio.com",
+    "project_id": "thebetterchatreal",
+    "storage_bucket": "thebetterchatreal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570346624718:android:2311f22a6b9db8881c629f",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570346624718-82e3a359brgsj0si0qnk7fsal5t7i67o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "83847cecea07f2e2d0740f3c1da1cf8f440d2da2"
+          }
+        },
+        {
+          "client_id": "570346624718-vlo55cm4kpg8k63tbcl6kkrscd5r6s85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdQS30OutyfBGHLXuVqseeiv2_8SPyeEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570346624718-vlo55cm4kpg8k63tbcl6kkrscd5r6s85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
