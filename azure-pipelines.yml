@@ -30,7 +30,7 @@ steps:
     repositoryName: 'eivarin/TheBetterChat'
     action: 'create'
     target: '$(Build.SourceVersion)'
-    tagSource: userSpecifiedTag
-    tag: $(Build.BuildNumber)
+    tagSource: 'userSpecifiedTag'
+    tag: 'My tag'
     changeLogCompareToRelease: 'lastFullRelease'
     changeLogType: 'commitBased'
